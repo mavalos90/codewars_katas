@@ -1,11 +1,14 @@
-# Codewars
-A repository for codewars katas solutions
+# :martial_arts_uniform: Codewars
+My personal repository for codewars katas solutions
 
-[![Python Version](https://img.shields.io/badge/python-3.6-blue.svg)]()
-
+![GitHub last commit](https://img.shields.io/github/last-commit/mavalos90/codewars_katas)
 
 ### [Profile](http://www.codewars.com/users/mavalos90)
 ![Codewars Rank](https://www.codewars.com/users/mavalos/badges/large)
+
+### Languages 
+- **Python** (mainly)
+- **SQL**
 
 ### Vocabulary
 - **Kata**: is an algorithm/function you have to solve in any programming language you desire.
@@ -17,7 +20,7 @@ A repository for codewars katas solutions
 8 - 7 kyu │ Beginner
 6 - 5 kyu │ Novice
 4 - 3 kyu │ Competent
-2 - 1 kyu │ Expert
+2 - 1 kyu │ Proficient
 ```
 
 ### Repository Structure
