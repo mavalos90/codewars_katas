@@ -16,3 +16,12 @@
 --     average_salary (float, 2 dp)
 --     total_people (int)
 --     total_salary (float, 2 dp)
+
+SELECT DISTINCT j.job_title as job_title,  
+CAST(ROUND((SUM(j.salary) / COUNT(p)), 2) AS FLOAT)  as average_salary,  
+COUNT(p.id) as total_people, 
+CAST(ROUND(SUM(j.salary), 2) as FLOAT) as total_salary 
+FROM people p 
+INNER JOIN job AS j ON j.people_id = p.id 
+GROUP BY job_title 
+ORDER BY average_salary DESC
