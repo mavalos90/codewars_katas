@@ -2,6 +2,7 @@
 My personal repository for codewars katas solutions
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/mavalos90/codewars_katas)
+![GitHub top language](https://img.shields.io/github/languages/top/mavalos90/codewars_katas)
 
 ### [Profile](http://www.codewars.com/users/mavalos90)
 ![Codewars Rank](https://www.codewars.com/users/mavalos/badges/large)
