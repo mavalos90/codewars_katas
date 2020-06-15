@@ -34,5 +34,14 @@ The diferent exercices (katas) are divided by difficulty (kyu). For each kyu, th
 │   │    ├── kyu_6/
 │   │    ├── kyu_7/
 │   │    ├── kyu_8/
-│   │    │  ├── add_length.py
+│   │    │  ├── solution.py
+
+├── sql/
+│   ├── katas/
+│   │    ├── kyu_5/
+│   │    ├── kyu_6/
+│   │    ├── kyu_7/
+│   │    ├── kyu_8/
+│   │    │  ├── solution.sql
+
 ```
