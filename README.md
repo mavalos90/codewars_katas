@@ -1,4 +1,5 @@
 # :martial_arts_uniform: Codewars
+
 My personal repository for codewars katas solutions
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/mavalos90/codewars_katas)
